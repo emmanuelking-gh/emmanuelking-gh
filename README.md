@@ -12,14 +12,15 @@ the whole thing is a single screen and nothing scrolls.
 
 ### Systems
 
-- **[spark-prospects-os](https://github.com/SparkProspects/spark-prospects-os)** — *Account, Deal,
-  Event. One System.* The internal ops console for Spark Prospects, built to retire a stack of
-  per-event Excel trackers. Website enquiries land in it, deals move through it, and a points board
-  scores whoever is responsible for a delegate. Next.js + Supabase.
+- **[spark-prospects-os](https://github.com/emmanuelking-gh/spark-prospects-os)** — *Account, Deal,
+  Event. One System.* The internal operations console I built for Spark Prospects, retiring a stack
+  of per-event Excel trackers. Website enquiries land in it, deals move through it, and a points
+  board scores whoever is responsible for a delegate. Next.js + Supabase. *(A public copy, shared
+  with permission — their internal records live only in the private original.)*
 - **[docrr](https://github.com/emmanuelking-gh/docrr)** — a portfolio tracker for UK doctors
   applying to specialty training, plus an eportfolio reflection generator, in one app. You pick a
   specialty, enter evidence against the real domains, and it tells you where you are short.
-  Next.js + Supabase.
+  Next.js + Supabase. **Live at [docrr.co.uk](https://docrr.co.uk).**
 
 ### Pieces
 
