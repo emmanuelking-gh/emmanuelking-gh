@@ -35,6 +35,22 @@ the whole thing is a single screen and nothing scrolls.
   [source](https://github.com/emmanuelking-gh/emmanuelking-design). My own page. Astro, and vanilla
   JavaScript for everything that moves — no animation libraries, so it opens on a bad connection.
 
+### Tools
+
+Desktop apps I built for myself and use every day. Windows, Electron + TypeScript, and nothing leaves
+the machine.
+
+- **[yapr](https://github.com/emmanuelking-gh/yapr)** — transcription, locally. Drop a WhatsApp
+  voice note on it and the text is on your clipboard; record a call and it keeps your voice and
+  theirs apart. whisper.cpp underneath, on the GPU when there is one.
+- **[the-wall](https://github.com/emmanuelking-gh/the-wall)** — a thin bar that hovers on the
+  desktop with a button for each of these, and a dot on any tool whose installed copy is older than
+  its code.
+- **[shotr](https://github.com/emmanuelking-gh/shotr)** — my screenshots folder as a window. Click
+  a shot, click where it goes.
+- **[paintr](https://github.com/emmanuelking-gh/paintr)** — paint notes straight onto a design's
+  filmstrip, and get back the marks plus your remarks as text, grouped by screen.
+
 ### Games
 
 - **[tikka-shooter](https://github.com/emmanuelking-gh/tikka-shooter)** — a hand-drawn 1v1 browser
