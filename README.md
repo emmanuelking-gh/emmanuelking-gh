@@ -2,7 +2,9 @@
 
 I build websites, and the small internal systems businesses actually run on.
 
-My code is private. Here's what I've worked on.
+### spark-prospects-os
+
+- **Spark Prospects OS**: The internal operations console I built for Spark Prospects, replacing their per-event Excel trackers. Website enquiries land in it, deals move through it, and a points board scores whoever is responsible for each delegate. Next.js + Supabase.
 
 ### design-lab
 
@@ -18,14 +20,10 @@ My design lab, where client pieces and my own work get designed.
 
 ### mafrika-gaming
 
-Games with my brother Joshua.
+Games with my brother Xekhai.
 
 - **[tikka-shooter](https://tikka-shooter.vercel.app)**: a hand-drawn 1v1 browser FPS so the two of us can keep a lifetime score. Built on [Doodle District](https://doodleshooter.vercel.app) by Evan Milenko.
 - **running-bob**: a third-person action shooter in Unity. You are a stickman and the world is made of paper.
-
-### spark-prospects-os
-
-- **Spark Prospects OS**: _Account, Deal, Event. One System._ The internal operations console I built for Spark Prospects, replacing their per-event Excel trackers. Website enquiries land in it, deals move through it, and a points board scores whoever is responsible for each delegate. Next.js + Supabase.
 
 ### tools
 
